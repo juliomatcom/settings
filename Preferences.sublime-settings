@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/IDLE.tmTheme",
+	"draw_white_space": "all",
+	"rulers": [80],
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
