@@ -1,3 +1,3 @@
 ## Settings and configuration's files i use
 
-- **Sublime**  ~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
+- **Sublime**  ~/.config/sublime-text-3/Packages/User/
