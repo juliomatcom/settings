@@ -1,9 +1,9 @@
 {
-      "editor.fontSize": 16,
-      "editor.tabSize": 2,
-      "editor.minimap.enabled": true,
-      "editor.formatOnPaste": true,
-      "markdown.preview.fontSize": 16,
-      "window.zoomLevel": 0.25,
-      "workbench.colorTheme": "Visual Studio Dark"
+    "workbench.welcome.enabled": false,
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": true,
+    "editor.formatOnPaste": true,
+    "markdown.preview.fontSize": 14,
+    "window.zoomLevel": 1
 }
