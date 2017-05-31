@@ -5,5 +5,6 @@
     "editor.minimap.enabled": true,
     "editor.formatOnPaste": true,
     "markdown.preview.fontSize": 14,
+    "editor.renderWhitespace": "boundary",
     "window.zoomLevel": 1
 }
