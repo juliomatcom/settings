@@ -7,6 +7,8 @@
       "markdown.preview.fontSize": 14,
       "window.zoomLevel": 1,
       "workbench.iconTheme": "vs-seti",
+      "editor.parameterHints": false,
+      "editor.quickSuggestionsDelay": 1000,
       "workbench.colorCustomizations": {
             "statusBar.background": "#1A1A1A",
             "statusBar.noFolderBackground": "#212121",
